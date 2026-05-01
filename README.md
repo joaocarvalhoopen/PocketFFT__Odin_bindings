@@ -2,7 +2,7 @@
 Bindings for the pocketfft fast FFT library. 
 
 ## Description
-Odin bindings for the [pocketfft](https://gitlab.mpcdf.mpg.de/mtr/pocketfft)
+Odin bindings for the [pocketfft](https://gitlab.mpcdf.mpg.de/mtr/pocketfft) [pocketfft_github](https://github.com/mreineck/pocketfft)
 header-only C++ FFT library. <br>
 This is a fast library. <br>
 Because pocketfft is template-only C++, a thin C ABI wrapper
